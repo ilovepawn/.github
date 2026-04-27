@@ -1,6 +1,8 @@
 <div align="center">
 
-# ilovepawn
+<a href="https://github.com/ilovepawn">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f6feb,100:8957e5&height=220&section=header&text=ilovepawn&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=38" alt="ilovepawn" />
+</a>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=620&lines=%EB%A7%88%EC%9D%B4%ED%81%AC%EB%A1%9C%EC%84%9C%EB%B9%84%EC%8A%A4+%EA%B8%B0%EB%B0%98+%EC%B2%B4%EC%8A%A4+%ED%94%8C%EB%9E%AB%ED%8F%BC;%EC%84%9C%EB%B9%84%EC%8A%A4+%EB%8B%A8%EC%9C%84%EB%A1%9C+%EB%A7%8C%EB%93%9C%EB%8A%94+%EC%A4%91" alt="tagline" />
 
@@ -53,6 +55,31 @@ S3 호환 버킷에 저장되는 분석 PGN이 서비스 간 계약 역할을 �
 
 ## 서비스
 
+<div align="center">
+
+<a href="https://github.com/ilovepawn/deep-thought">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=ilovepawn&repo=deep-thought&theme=tokyonight&show_owner=false" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ilovepawn&repo=deep-thought&show_owner=false" alt="deep-thought" />
+  </picture>
+</a>
+<a href="https://github.com/ilovepawn/tactician">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=ilovepawn&repo=tactician&theme=tokyonight&show_owner=false" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ilovepawn&repo=tactician&show_owner=false" alt="tactician" />
+  </picture>
+</a>
+<a href="https://github.com/ilovepawn/zugzwang">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=ilovepawn&repo=zugzwang&theme=tokyonight&show_owner=false" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ilovepawn&repo=zugzwang&show_owner=false" alt="zugzwang" />
+  </picture>
+</a>
+
+</div>
+
+<br/>
+
 | 레포 | 역할 | 스택 |
 |---|---|---|
 | [**deep-thought**](https://github.com/ilovepawn/deep-thought) | 게임 분석 워커 — RabbitMQ 기반 Stockfish로 분석 PGN 생성 | Python · RabbitMQ · Stockfish · MinIO |
@@ -62,5 +89,9 @@ S3 호환 버킷에 저장되는 분석 PGN이 서비스 간 계약 역할을 �
 ---
 
 <div align="center">
+
 <sub>Built by <a href="https://github.com/FickleBoBo">@FickleBoBo</a></sub>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8957e5,100:1f6feb&height=100&section=footer" alt="" />
+
 </div>

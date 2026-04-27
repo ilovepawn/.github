@@ -1,6 +1,8 @@
 <div align="center">
 
-# ilovepawn
+<a href="https://github.com/ilovepawn">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f6feb,100:8957e5&height=220&section=header&text=ilovepawn&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=38" alt="ilovepawn" />
+</a>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=620&lines=A+microservice-based+chess+platform;Built+service+by+service" alt="tagline" />
 
@@ -53,6 +55,31 @@ Annotated PGNs in the shared S3-compatible bucket act as the cross-service contr
 
 ## Services
 
+<div align="center">
+
+<a href="https://github.com/ilovepawn/deep-thought">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=ilovepawn&repo=deep-thought&theme=tokyonight&show_owner=false" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ilovepawn&repo=deep-thought&show_owner=false" alt="deep-thought" />
+  </picture>
+</a>
+<a href="https://github.com/ilovepawn/tactician">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=ilovepawn&repo=tactician&theme=tokyonight&show_owner=false" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ilovepawn&repo=tactician&show_owner=false" alt="tactician" />
+  </picture>
+</a>
+<a href="https://github.com/ilovepawn/zugzwang">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=ilovepawn&repo=zugzwang&theme=tokyonight&show_owner=false" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ilovepawn&repo=zugzwang&show_owner=false" alt="zugzwang" />
+  </picture>
+</a>
+
+</div>
+
+<br/>
+
 | Repo | Role | Stack |
 |---|---|---|
 | [**deep-thought**](https://github.com/ilovepawn/deep-thought) | Game analysis worker — RabbitMQ-driven Stockfish producing annotated PGNs | Python · RabbitMQ · Stockfish · MinIO |
@@ -62,5 +89,9 @@ Annotated PGNs in the shared S3-compatible bucket act as the cross-service contr
 ---
 
 <div align="center">
+
 <sub>Built by <a href="https://github.com/FickleBoBo">@FickleBoBo</a></sub>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8957e5,100:1f6feb&height=100&section=footer" alt="" />
+
 </div>
